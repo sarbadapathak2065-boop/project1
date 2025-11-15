@@ -1,4 +1,5 @@
 My hands on experience on firebase for the first time . 
+This is just a practice project and has nothing to do with my internship .
 
 This is my first time using Firebase.
 
